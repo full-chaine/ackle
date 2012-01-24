@@ -1,0 +1,13 @@
+local.properties
+.directory
+.DS_Store
+prod/bin/
+prod/gen/
+.settings
+out/
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/scopes/
+.idea/workspace.xml
+.idea/codeStyleSettings.xml
+.idea/dictionaries/

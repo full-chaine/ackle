@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="unit-tests-libs-android">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/unit-tests/libs-android" />
+      <root url="file://$PROJECT_DIR$/unit-tests/libs-android" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/unit-tests/libs-android" recursive="false" />
+  </library>
+</component>
